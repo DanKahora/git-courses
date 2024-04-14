@@ -1,7 +1,29 @@
-body() {
-
-
-
-
-
+body{
+	background: lightblue;
+	text-align:center;
+	
 }
+h1 {
+	color: red;
+	font-size: 20px;
+	
+}
+
+.companyLogo{
+	border-right: 10px solid red;
+}
+ul li {
+	color: white;
+	font-size: 15px;
+}
+ul > li {
+	color: orange;
+	font-size: 20px;
+}
+a {
+	text-decoration: none;
+	font-size: 20px;
+}
+
+	
+	
