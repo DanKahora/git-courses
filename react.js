@@ -1,4 +1,4 @@
-function {
+function () {
 
 
 learning react.js
