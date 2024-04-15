@@ -1,16 +1,23 @@
 body{
 	background: lightblue;
 	text-align:center;
-	
 }
 h1 {
 	color: red;
 	font-size: 20px;
-	
+	font-family: 'Sedan';
+	height: auto;
 }
 
 .companyLogo{
-	border-right: 10px solid red;
+	border: 10px solid red;
+	border-radius: 10px;
+	width: 300px;
+	height: 300px;
+	padding: 5px;
+	opacity: 0.5;
+	display: block;
+	margin: auto;
 }
 ul li {
 	color: white;
